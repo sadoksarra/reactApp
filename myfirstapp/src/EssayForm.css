@@ -1,0 +1,11 @@
+.container{
+    margin-top: 50px;
+}
+
+.container .Titre{
+
+    text-align: center;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    color: royalblue;
+}
